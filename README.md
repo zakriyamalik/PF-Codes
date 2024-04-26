@@ -1,2 +1,2 @@
 # PF-Codes
-This repo contains my C++ code as beginer.
+This repo contains my C++ code as beginner.
